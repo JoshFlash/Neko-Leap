@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1238c4f6c66cd6e49a477741ea67d3bf
+timeCreated: 1499607632
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Komika Title - Axis
+  fontNames:
+  - Komika Title - Axis
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
